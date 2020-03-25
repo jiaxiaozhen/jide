@@ -1,0 +1,22 @@
+page {
+  /* height: 50%; */
+  /* background: #f6f6f6;*/ 
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; 
+  background-color: rgba(16,42,68,0.3);
+  padding: 10px;
+}
+radio{
+margin-left: 10px;
+}
+picker {
+  height: 50rpx;
+  width: 70%;
+  margin-top: 30rpx;
+  border: 1px solid pink;
+}
+button {
+  margin-top: 50rpx;
+  font-size: 14px;
+}

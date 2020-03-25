@@ -1,0 +1,18 @@
+<view>
+  <view class="section__title">添加类型</view>
+  <radio-group bindchange="radioChange">
+    <radio value="{{1}}">
+      <text>纪念日</text>
+    </radio>
+    <radio value="{{2}}">
+      <text>倒计时</text>
+    </radio>
+  </radio-group>
+  <picker mode="date" value="{{timeAdd}}" bindchange="bindDateChange">
+    <view class="picker">
+      选择日期: {{date}}
+    </view>
+    
+  </picker>
+<button>添加</button>
+</view>

@@ -1,0 +1,6 @@
+<view class="container">
+<image src="../../img/1710a859aaee46ed.jpg" mode="aspectFill"></image>
+  <view class="box">
+    <text>loving: {{span}}天</text>
+  </view>
+</view>

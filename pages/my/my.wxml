@@ -1,0 +1,5 @@
+<view class="cont">
+<image src="../../img/1710a85a35e3cff0.jpg" mode="aspectFill"></image>
+  <navigator url="../memorialBook/memorialBook">纪念册</navigator>
+  <navigator url="../Countdown/Countdown">倒计时</navigator>
+</view>

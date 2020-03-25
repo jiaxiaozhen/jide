@@ -1,0 +1,6 @@
+<view class="container">
+    <image src="../../img/1710f48b59c0ec1d.jpg" mode="aspectFill"></image>
+  <view class="box">
+    <text>距离岳老二生日还有: {{span}} 天</text>
+  </view>
+</view>
